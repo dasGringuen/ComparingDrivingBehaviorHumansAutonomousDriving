@@ -36,7 +36,7 @@ If you find this code useful in an academic setting, please cite:
 @article{remonda2020comparing,
   author = {Remonda, Adrian and and Veas, Eduardo and Luzhnica, Granit},
   title = {Comparing Driving Behavior of Humans and Autonomous Driving in a Professional Racing Simulator},
-  journal = {PLOS},
+  journal = {PLOS ONE},
   year = {2020}
 }
 ```
