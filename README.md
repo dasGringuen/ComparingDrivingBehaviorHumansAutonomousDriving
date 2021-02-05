@@ -1,6 +1,6 @@
 # Comparing Driving Behavior of Humans and Autonomous Driving in a Professional Racing Simulator
 
-Dataset for the experiments in [Comparing Driving Behavior of Humans and Autonomous Driving in a Professional Racing Simulator]().
+Dataset for the experiments in [Comparing Driving Behavior of Humans and Autonomous Driving in a Professional Racing Simulator](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245320).
 
 ## Directory structure
     .
@@ -33,11 +33,13 @@ Segments starting with *S* represent straights and segments starting with *C* re
 If you find this code useful in an academic setting, please cite:
 
 ```
-@article{remonda2020comparing,
+@article{remonda2021comparing,
   author = {Remonda, Adrian and and Veas, Eduardo and Luzhnica, Granit},
   title = {Comparing Driving Behavior of Humans and Autonomous Driving in a Professional Racing Simulator},
-  journal = {PLOS ONE},
-  year = {2020}
+  journal = {PLoS ONE 16(2): e0245320. https://doi.org/10.1371/journal.pone.0245320},
+  year = {2021}
 }
 ```
+
+
 
